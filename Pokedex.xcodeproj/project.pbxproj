@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F15B9D01E75816200B9949B /* FavouritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F15B9CF1E75816200B9949B /* FavouritesViewController.swift */; };
 		1FBCA9401E3D564B00D83F9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FBCA93F1E3D564B00D83F9F /* AppDelegate.swift */; };
 		1FBCA9421E3D564B00D83F9F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FBCA9411E3D564B00D83F9F /* ViewController.swift */; };
 		1FBCA9451E3D564B00D83F9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FBCA9431E3D564B00D83F9F /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1F15B9CF1E75816200B9949B /* FavouritesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavouritesViewController.swift; sourceTree = "<group>"; };
 		1FBCA93C1E3D564B00D83F9F /* Pokedex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pokedex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FBCA93F1E3D564B00D83F9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FBCA9411E3D564B00D83F9F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				1FE258B01E745AC10021B18C /* DetailViewController.swift */,
 				1FBCF6321E41F10E008CC612 /* Pokemon.swift */,
 				1FBCA9431E3D564B00D83F9F /* Main.storyboard */,
+				1F15B9CF1E75816200B9949B /* FavouritesViewController.swift */,
 				1FBCA9461E3D564B00D83F9F /* Assets.xcassets */,
 				1FBCA9481E3D564B00D83F9F /* LaunchScreen.storyboard */,
 				1FBCA94B1E3D564B00D83F9F /* Info.plist */,
@@ -207,6 +210,7 @@
 				1FBCA9421E3D564B00D83F9F /* ViewController.swift in Sources */,
 				1FBCA9401E3D564B00D83F9F /* AppDelegate.swift in Sources */,
 				1FBCF6331E41F10E008CC612 /* Pokemon.swift in Sources */,
+				1F15B9D01E75816200B9949B /* FavouritesViewController.swift in Sources */,
 				1FE258B11E745AC10021B18C /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
